@@ -50,7 +50,7 @@ function makesound(key) {
             kick.play();
             break;
         case "l":
-            var snare = new Audio("sounds/snares.mp3");
+            var snare = new Audio("sounds/snare.mp3");
             snare.play();
             break;
         default:
